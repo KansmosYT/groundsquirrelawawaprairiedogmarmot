@@ -1,0 +1,31 @@
+body{
+    background-color:lightskyblue;
+    font-family:verdana;
+}
+
+h1{
+    background-color:mediumblue;
+    color:lightseagreen;
+    font-size:48px;
+}
+
+figcaption{
+    color:royalblue;
+    font-size:24px;
+}
+
+img{
+    border: 5px solid blue;
+}
+
+a{
+    font-size:28px;
+    font-style:italic;
+    color:seagreen;
+    background-color:skyblue;
+}
+
+figure{
+    background-color:mediumturquoise;
+    font-size:24px;
+}
